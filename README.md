@@ -25,4 +25,4 @@ Once configured, it then outputs to a log file, such as:
 to log the actions that have been performed.
 
 If a laser was broken, or if an object entered/exited a room, then the stats file would be updated accordingly.
-![Sample Stats File](images/stats.jpg)
+
