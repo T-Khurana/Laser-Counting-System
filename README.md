@@ -20,7 +20,7 @@ Once executed, the code reads through a configuration file, such as:
 This config file sets the appropriate settings (such as the directory to the log and stats files and the value of the watchdog timeout.
 
 Once configured, it then outputs to a log file, such as:
-![Sample Log File](images/log.jpg)
+![Sample Log File](log.jpg)
 
 to log the actions that have been performed.
 
